@@ -96,6 +96,12 @@ button:hover{
   position: absolute;
 
   top: -32px;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
   margin-top: 2rem;
   width: 40rem;
   height: 15rem;
