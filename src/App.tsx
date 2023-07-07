@@ -55,7 +55,7 @@ function App() {
 
         {beshyIndicator &&  <div className='beshy-indicator'>text copied 🤸‍♀️</div>}
       </div>
-      <span>made and designed by reydel hehe. also powered and spored by ELKAPAROK 🤸‍♀️🤸‍♀️🤸‍♀️</span>
+      <span>made and designed by reydel, also powered and sponsored by ELKAPAROK 🤸‍♀️🤸‍♀️🤸‍♀️</span>
     </main>
   )
 }
